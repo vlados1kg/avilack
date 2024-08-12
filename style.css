@@ -86,7 +86,7 @@
 
 .loading {
     width: 100px;
-    animation: 3s linear infinite rotate;
+    animation: 1.5s linear infinite rotate;
 }
 
 @keyframes rotate {
