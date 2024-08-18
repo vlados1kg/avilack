@@ -20,6 +20,7 @@ input.addEventListener("click", () => {
     } else if (count === 3) {
         loading();
         setTimeout(() => {output.innerHTML = three;}, 1000)
+        count = 1;
     }
 }, 2000)
 
