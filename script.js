@@ -3,7 +3,7 @@ let output = document.querySelector(".main-title");
 let buttonText = document.querySelector(".button-text");
 let count = 1;
 let one = "2.73";
-let two = "7.26";
+let two = "1.90";
 let three = "7.26";
 
 output.innerHTML = "5.73";
