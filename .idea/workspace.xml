@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7759f53-dd99-4433-af5b-9c34d054a824" name="Changes" comment="" />
+    <list default="true" id="f7759f53-dd99-4433-af5b-9c34d054a824" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/img/LyckyJet_helper_bot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/LyckyJet_helper_bot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +50,7 @@
       <workItem from="1723477238138" duration="5568000" />
       <workItem from="1723506244504" duration="271000" />
       <workItem from="1723944346905" duration="664000" />
+      <workItem from="1724173364043" duration="37000" />
     </task>
     <servers />
   </component>
